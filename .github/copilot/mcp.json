@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "ado-remote-mcp": {
+      "type": "http",
+      "url": "https://mcp.dev.azure.com/dynatechoffice",
+      "headers": {},
+      "tools": ["*"]
+    }    
+  }
+}
